@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("Hellow Git new!\n");
+    printf("Hellow Git Pipeline!\n");
     return 0;
 }
