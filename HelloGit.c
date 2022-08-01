@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("Hello Git Pipeline!\n");
+    printf("Hello Git Pipeline update!\n");
     return 0;
 }
